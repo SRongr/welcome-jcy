@@ -28,3 +28,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 使用了vue-router  来控制路由
 雪花采用生产者模式创造
 使用了css3 的3d 效果
+
+[heroku: ](https://welcome-jcy-10001.herokuapp.com/#/)
